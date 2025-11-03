@@ -67,7 +67,7 @@
         #floatingMenuControls > .keyboard-toggle.off { background: #7f8c8d; } /* אפור = כבוי */
 
         #searchInput {
-            margin: 0 10px;
+            margin: 3px 10px;
             padding: 5px 8px;
             border-radius: 4px;
             border: none;
